@@ -1,0 +1,1 @@
+1. Criar uma Relação entre as bases 'Demografia X Município' e 'Demografia X Sexo & Idade'. Melhor que Unir ambas as bases em uma só, é poder trabalhar com elas de forma separada, pois as futuras extrações serão feitas de forma separada.
