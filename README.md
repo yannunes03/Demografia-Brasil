@@ -24,4 +24,16 @@ meia idade, entre 25 e 39 Anos (Top 3).
 * **Mulheres:** A população feminina do país está mais concentrada nas regiões Sudeste e Nordeste do país. Tendo como os top 3 estados mais populosos, do 1º a 3º, os estados de São Paulo, Minas Gerais e Rio de Janeiro (Todos da Região Sudeste). Enquanto os top 3 estados menos populosos do país, do 1º ao 3º, estão concentrados na região Norte, e são eles: Roraima (322.420), Acre (459.816) e Tocantins (807.983).
 * **Homens:** A densidade populacional masculina, acompanha o mesmo comportamento da população feminina em todos os pontos analisados. Diferenciando-se apenas no quesito top 3 estados menos populosos do país, do 1º ao 3º, também concentrados na região Norte, que são: Roraima (347.847), Amapa (446.075) e Acre (459.329).
 
+## 3. Análise por Região:
+### 3.1 Região Norte:
+* 2ª menor região do Brasil em números de habitantes. Total de 19.5 milhões
+* A Região Norte é a região que possui os estados menos populosos do Brasil: Roraima, Acre, Amapa e Tocantins.
+* Roraima é o menor em tudo: Roraima é o estado menos populoso da Região Norte e do Brasil.
+* Pará é o Estado que possui o maior número de habitantes da Região, 8.8 milhões, com uma diferença de 4.5 milhões em relação ao segundo estado mais populoso da região, o Amazonas (Total de 4.3 milhões de pessoas).
+* Demografia X Sexo: Homens e mulheres possuem quase o mesmo número de habitantes. Entorno de  10 Milhões para elas (50,95%) e 9.6 Milhões para eles (49,05%).
+* Diferente do que acontece a nível geral, considerando todas as regiões e estados do Brasil, a região Norte é a região onde as lideranças em números de habitantes, dividida por sexo, varia conforme os Estados. Tendo os Estados do Acre, Amapá liderada por elas, e os demais (Amazonas, Pará, Rondonia, Roraima e Tocantins) liderados por eles. Mesmo assim, o número de mulheres continua maior. 
+* Demografia X Idade: População majoritariamente jovem, composta por pessoas adolescentes e jovens adultos que se encontram na faixa dos 15 a 29 anos (Top 3).
+
+
+
 
