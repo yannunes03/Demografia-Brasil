@@ -53,6 +53,12 @@ meia idade, entre 25 e 39 Anos (Top 3).
 * **Demografia X Sexo:** Em todos os estados o número de mulheres é maior que a dos homens. Total de 48 milhões (52,31%) para elas, e  44 milhões (47,69%). 
 * **Demografia X Idade:** População de meia idade, composta por pessoas próximas ou já meia idade, que se encontram na faixa dos 30 aos 44 anos (Top 3).
 
+### 3.5 Região Sul:
+* É a 3ª maior e menor região do Brasil em número de habitantes, ou seja, nem maior e nem menor, encontra-se numa posição central. Total de 30.6 milhões de pessoas
+* Rio Grande do Sul e Paraná são os dois estados que possuem o maior número de habitantes e de forma aproximada, 11.5 mihões e 11.6 milhões, respectivamente.
+* **Demografia X Sexo:** Em todos os estados o número de mulheres é maior que a dos homens. Total de 16 milhões (51%) para elas, e  15 milhões (49%). 
+* **Demografia X Idade:** População Jovem adulta, composta por pessoas jovens adultas ou próximas da meia idade, que se encontram na faixa dos 25 aos 39 anos (Top 3).
+
 
 
 
