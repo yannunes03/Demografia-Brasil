@@ -34,6 +34,20 @@ meia idade, entre 25 e 39 Anos (Top 3).
 * Diferente do que acontece a nível geral, considerando todas as regiões e estados do Brasil, a região Norte é a região onde as lideranças em números de habitantes, dividida por sexo, varia conforme os Estados. Tendo os Estados do Acre, Amapá liderada por elas, e os demais (Amazonas, Pará, Rondonia, Roraima e Tocantins) liderados por eles. Mesmo assim, o número de mulheres continua maior. 
 * **Demografia X Idade:** População majoritariamente jovem, composta por pessoas adolescentes e jovens adultos que se encontram na faixa dos 15 a 29 anos (Top 3).
 
+### 3.2 Região Nordeste:
+* É a 2ª maior região do Brasil em número de habitantes, com um Total de 68.3 milhões de pessoas
+* Temos os Estados da Bahia (15 milhões) e Pernambunco ( 14.7 milhões) como os estados mais populosos da região, com uma diferença de 4 milhões de habitantes em relação ao 3º mais populoso, o Maranhão (Total 10.8 milhões).
+* Em todos os estados o número de mulheres é maior que a dos homens. 
+* Os Top 3 estados menos populosos da região, do 1º ao 3º, são:  (2.3 milhões), Amapa (3.3 milhões) e Acre (3.5 milhões).
+* Demografia X Idade: População Jovem adulta, composta por pessoas jovens adultas ou próximas da meia idade, que se encontram na faixa dos 20 aos 34 anos (Top 3).
+
+### 3.3 Região Centro-Oeste:
+* Região do Brasil com  a menor densidade populacional, ou menor número de habitantes no país. Total de 18.6 milhões
+* Goiás e o estado com o maior número de habitantes (Total 7.3 milhões), enquanto o Mato Grosso do Sul é o que possui o menor número (total de 2.8 milhões).
+* Demografia X Sexo: Em todos os estados o número de mulheres é maior que a dos homens. Total de 10.3 milhões (55,45%) para elas, e 8.3 milhões (44,55%). 
+* Demografia X Idade: População Jovem adulta, composta por pessoas jovens adultas ou próximas da meia idade, que se encontram na faixa dos 25 aos 39 anos (Top 3).
+
+
 
 
 
