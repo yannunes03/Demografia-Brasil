@@ -17,5 +17,11 @@ da população brasileira ao longo dos anos.
 * **Demografria X Região:** Sudeste é a região com a maior densidade  populacional do Brasil.
 * **Demografia X Sexo:** O Brasil é o país onde se tem mais mulheres que homens, com um número de 124 milhõres 
 (54%) versus 106 milhões (46%), respectivamente.
+* **Demografia X Idade:** A população do Brasil é relativamente jovem, composto por pessoas jovens e próximas da 
+meia idade, entre 25 e 39 Anos (Top 3).
+
+## 2. Análise por Sexo:
+* **Mulheres:** A população feminina do país está mais concentrada nas regiões Sudeste e Nordeste do país. Tendo como os top 3 estados mais populosos, do 1º a 3º, os estados de São Paulo, Minas Gerais e Rio de Janeiro (Todos da Região Sudeste). Enquanto os top 3 estados menos populosos do país, do 1º ao 3º, estão concentrados na região Norte, e são eles: Roraima (322.420), Acre (459.816) e Tocantins (807.983).
+* **Homens:** A densidade populacional masculina, acompanha o mesmo comportamento da população feminina em todos os pontos analisados. Diferenciando-se apenas no quesito top 3 estados menos populosos do país, do 1º ao 3º, também concentrados na região Norte, que são: Roraima (347.847), Amapa (446.075) e Acre (459.329).
 
 
