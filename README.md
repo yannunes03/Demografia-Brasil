@@ -9,7 +9,7 @@ da população brasileira ao longo dos anos.
 
 **Ferramentas Utilizadas:**
 
-![Power BI](https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022-small.png) ![Microsoft Excel](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Excel_75x75_RE3a9Se?scl=1)
+![Power BI](https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022-small.png)
  
 # Análises:
 
