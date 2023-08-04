@@ -14,5 +14,8 @@ da população brasileira ao longo dos anos.
 # Análises:
 
 ## 1. Cenário Geral:
-* **Demografria X Região:** Sudeste é a região com a maior densidade  populacional do Brasil. 
+* **Demografria X Região:** Sudeste é a região com a maior densidade  populacional do Brasil.
+* **Demografia X Sexo:** O Brasil é o país onde se tem mais mulheres que homens, com um número de 124 milhõres 
+(54%) versus 106 milhões (46%), respectivamente.
+
 
