@@ -14,7 +14,7 @@ da população brasileira ao longo dos anos.
 # Análises:
 
 ## 1. Cenário Geral:
-* **Demografria X Região:{c/}** {c:#1c4587}Sudeste{c/} é a região com a maior densidade  populacional do Brasil.
+* **Demografria X Região:** Sudeste é a região com a maior densidade  populacional do Brasil.
 * **Demografia X Sexo:** O Brasil é o país onde se tem mais mulheres que homens, com um número de 124 milhõres 
 (54%) versus 106 milhões (46%), respectivamente.
 * **Demografia X Idade:** A população do Brasil é relativamente jovem, composto por pessoas jovens e próximas da 
@@ -30,9 +30,9 @@ meia idade, entre 25 e 39 Anos (Top 3).
 * A Região Norte é a região que possui os estados menos populosos do Brasil: Roraima, Acre, Amapa e Tocantins.
 * Roraima é o menor em tudo: Roraima é o estado menos populoso da Região Norte e do Brasil.
 * Pará é o Estado que possui o maior número de habitantes da Região, 8.8 milhões, com uma diferença de 4.5 milhões em relação ao segundo estado mais populoso da região, o Amazonas (Total de 4.3 milhões de pessoas).
-* Demografia X Sexo: Homens e mulheres possuem quase o mesmo número de habitantes. Entorno de  10 Milhões para elas (50,95%) e 9.6 Milhões para eles (49,05%).
+* **Demografia X Sexo:** Homens e mulheres possuem quase o mesmo número de habitantes. Entorno de  10 Milhões para elas (50,95%) e 9.6 Milhões para eles (49,05%).
 * Diferente do que acontece a nível geral, considerando todas as regiões e estados do Brasil, a região Norte é a região onde as lideranças em números de habitantes, dividida por sexo, varia conforme os Estados. Tendo os Estados do Acre, Amapá liderada por elas, e os demais (Amazonas, Pará, Rondonia, Roraima e Tocantins) liderados por eles. Mesmo assim, o número de mulheres continua maior. 
-* Demografia X Idade: População majoritariamente jovem, composta por pessoas adolescentes e jovens adultos que se encontram na faixa dos 15 a 29 anos (Top 3).
+* **Demografia X Idade:** População majoritariamente jovem, composta por pessoas adolescentes e jovens adultos que se encontram na faixa dos 15 a 29 anos (Top 3).
 
 
 
